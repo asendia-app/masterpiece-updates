@@ -1,1 +1,1 @@
-# masterpiece-updates
+Masterpiece release repository
